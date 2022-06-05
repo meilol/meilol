@@ -1,7 +1,7 @@
 ### Hey there 👋
-I am Mei, a 13 year old developer from the UK. I use languages such as, C++, Python and C# (ranked in order).
+I am Mei. I work on stuff from time-to-time.
 
-You can add me on Discord here: `Mei !!#0001` <br>
+You can add me on Discord here: `gravy#0001` <br>
 
 ###### Languages
 
